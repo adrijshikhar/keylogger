@@ -2,6 +2,8 @@
 
 A python3 script to capture and log every key stroke on linux based systems. This script uses [`pyxhook.py`](https://github.com/JeffHoogland/pyxhook) under the hood.
 
+![Build](https://github.com/adrijshikhar/keylogger/workflows/Build/badge.svg?branch=master)
+
 ## Usage
 
 ### Requirements
